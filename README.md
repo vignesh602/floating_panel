@@ -1,10 +1,13 @@
 # FloatingPanel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This is a simple floating panel with Jquery
+Steps :
+-> Clone the project by using the command `git clone https://github.com/vignesh602/Floating-panel.git`
+-> Navigate to the project directory by running the command `cd Floating-panel`
+-> Install the dependencies by running the command `npm install`
+-> Run the dev server by `npm start`
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Pull requests are accepted. Please raise a issue if you face any problem using the app. 
 
 ## Code scaffolding
 
